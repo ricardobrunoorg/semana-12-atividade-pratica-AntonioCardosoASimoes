@@ -5,12 +5,14 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Antônio Cardoso
+- Matricula: 853577
 
 ## Prints do trabalho
 
 <<  COLOQUE A IMAGEM - LISTA DE CARDS COM FILMES - AQUI >>
+![Lista de cards com filmes](image.png)
+![Lista de cards com filmes 2](image-1.png)
 
 <<  COLOQUE A IMAGEM - RESULTADO DE UMA PESQUISA - AQUI >>
-
+![Resultado de pesquisa](image-2.png)
